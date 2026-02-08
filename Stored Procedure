@@ -1,0 +1,7 @@
+Stored Procedure: Get Customer Orders
+
+EXEC dbo.GetCustomerOrders @cust_id = 1;
+
+Stored Procedure: Make Payment
+
+EXEC dbo.MakePayment @order_id = 1, @method = 'Credit Card';
