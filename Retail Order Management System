@@ -1,0 +1,16 @@
+RetailOrderManagementSystem/
+│
+├─ README.md
+├─ Scripts/
+│   ├─ 01_CreateDatabase.sql
+│   ├─ 02_CreateTables.sql
+│   ├─ 03_InsertSampleData.sql
+│   ├─ 04_CreateViews.sql
+│   ├─ 05_CreateProcedures.sql
+│   ├─ 06_CreateIndexes.sql
+│   └─ 07_DemoQueries.sql
+├─ Screenshots/
+│   ├─ Sales_Summary.png
+│   ├─ GetCustomerOrders.png
+│   └─ MakePayment.png
+└─ LICENSE
